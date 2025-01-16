@@ -1,0 +1,20 @@
+# Ignore the virtual environment directory
+# This is my own venv so just ignore
+maritime/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variable files
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files (add specific IDE you use)
+.vscode/
+.idea/
